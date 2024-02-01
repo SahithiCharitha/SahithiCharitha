@@ -4,8 +4,9 @@
 - <b>Udacity-cybersecurity-projects <i>(Nano Degree)</i></b>
   - [Monitoring and Securing, Navigating a cyber security incident, Governance/Risk/complaince](https://github.com/SahithiCharitha/udacity-cybersecurity-projects)
 - <b>Hybrid Cryptography</b>
-  - [cryptography](https://github.com/SahithiCharitha/Hybrid-cryptography-)
--<b>Text Analytics project </b>
+  - [AES,RSA cryptography](https://github.com/SahithiCharitha/Hybrid-cryptography-)
+
+- <b>Text Analytics project </b>
   - [Data Analytics](https://github.com/SahithiCharitha/Training-SVC-and-Linear-SVC-classifier)
 
 <br>
